@@ -6,7 +6,7 @@ ref: https://help.github.com/en/articles/fork-a-repo
 2. For every solution to a problem please create a branch and push it up when your done
 ref: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
-3.You can use any language you like to implement the solution to the problem provided its an Object Oriented Programming language. We are not looking for a working code implementation but for a basic understanding of coding.
+3. You can use any language you like to implement the solution to the problem provided its an Object Oriented Programming language. We are not looking for a working code implementation but for a basic understanding of coding.
 
 `You are not required to connect to a database, in memory collections is prefectly acceptable.`
 
