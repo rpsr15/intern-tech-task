@@ -17,6 +17,7 @@ public class ShoppingCart
     {
         this.cartID = cartID;
         this.userID = userID;
+        this.products = new ArrayList<Product>();
     }
 
     public String getCartID()
